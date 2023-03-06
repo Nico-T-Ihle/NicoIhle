@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nicoihle/static/css/main.ee269622.css",
+    "main.js": "/nicoihle/static/js/main.ebc96870.js",
+    "static/js/787.4415079a.chunk.js": "/nicoihle/static/js/787.4415079a.chunk.js",
+    "static/media/bluish-kingdom@3000x2000px.jpg": "/nicoihle/static/media/bluish-kingdom@3000x2000px.8141fe61c6b8bc15aaf8.jpg",
+    "static/media/color-sharp.png": "/nicoihle/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/emojiME.jpg": "/nicoihle/static/media/emojiME.9306a74b98b313b01ee4.jpg",
+    "static/media/IMG_0207.png": "/nicoihle/static/media/IMG_0207.b53c8dcc17cfccdf4332.png",
+    "static/media/revicons.eot": "/nicoihle/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/nicoihle/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/nicoihle/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/react-logo.svg": "/nicoihle/static/media/react-logo.596719578a6bc111649161b1288e0cbb.svg",
+    "static/media/meter2.svg": "/nicoihle/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/nicoihle/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/nicoihle/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/brackets.svg": "/nicoihle/static/media/brackets.0b6e6ea9802ec6da1fa92461ca8a585a.svg",
+    "static/media/digital-marketing.svg": "/nicoihle/static/media/digital-marketing.1977e4425feed4913fc892ed690dad6d.svg",
+    "index.html": "/nicoihle/index.html",
+    "main.ee269622.css.map": "/nicoihle/static/css/main.ee269622.css.map",
+    "main.ebc96870.js.map": "/nicoihle/static/js/main.ebc96870.js.map",
+    "787.4415079a.chunk.js.map": "/nicoihle/static/js/787.4415079a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee269622.css",
+    "static/js/main.ebc96870.js"
+  ]
+}
