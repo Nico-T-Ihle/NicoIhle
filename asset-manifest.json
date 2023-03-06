@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nicoihle/static/css/main.ee269622.css",
+    "main.css": "/nicoihle/static/css/main.ffc061fb.css",
     "main.js": "/nicoihle/static/js/main.ebc96870.js",
     "static/js/787.4415079a.chunk.js": "/nicoihle/static/js/787.4415079a.chunk.js",
     "static/media/bluish-kingdom@3000x2000px.jpg": "/nicoihle/static/media/bluish-kingdom@3000x2000px.8141fe61c6b8bc15aaf8.jpg",
@@ -17,12 +17,12 @@
     "static/media/brackets.svg": "/nicoihle/static/media/brackets.0b6e6ea9802ec6da1fa92461ca8a585a.svg",
     "static/media/digital-marketing.svg": "/nicoihle/static/media/digital-marketing.1977e4425feed4913fc892ed690dad6d.svg",
     "index.html": "/nicoihle/index.html",
-    "main.ee269622.css.map": "/nicoihle/static/css/main.ee269622.css.map",
+    "main.ffc061fb.css.map": "/nicoihle/static/css/main.ffc061fb.css.map",
     "main.ebc96870.js.map": "/nicoihle/static/js/main.ebc96870.js.map",
     "787.4415079a.chunk.js.map": "/nicoihle/static/js/787.4415079a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee269622.css",
+    "static/css/main.ffc061fb.css",
     "static/js/main.ebc96870.js"
   ]
 }
