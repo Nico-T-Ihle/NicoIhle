@@ -1,0 +1,135 @@
+/************ Skills Css ************/
+.skill {
+    padding: 0 0 50px 0;
+    position: relative;
+    background: #121212;
+}
+
+.skill-bx {
+    background: #121212;
+    border-radius: 64px;
+    text-align: center;
+    padding: 60px 50px;
+    margin-top: -66px;
+    position: relative;
+    top: -4rem;
+    z-index: 5;
+    border: #09b1de;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-style: solid;
+}
+
+.skill h2 {
+    font-size: 45px;
+    font-weight: 700;
+    color: #ffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+.skill p {
+    color: #ffff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    margin: 14px 0 75px 0;
+}
+
+.background-image-left {
+    top: 28%;
+    position: absolute;
+    bottom: 0;
+    width: 40%;
+    z-index: 1;
+}
+
+
+.skill-slider {
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.skill-slider .item img {
+    width: 50%;
+    margin: 0 auto 15px auto;
+}
+
+h5 {
+    color: #ffff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.25rem;
+}
+
+.container-skills {
+    max-width: 1320px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media only screen and (min-width: 320px) {
+    .container-skills {
+        max-width: 340px;
+    }
+
+    .react-multiple-carousel__arrow {}
+}
+
+@media only screen and (min-width: 576px) {
+    .container-skills {
+        max-width: 540px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .container-skills {
+        max-width: 720px;
+    }
+
+    .react-multiple-carousel__arrow {}
+}
+
+@media only screen and (min-width: 992px) {
+    .container-skills {
+        max-width: 960px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .container-skills {
+        max-width: 1140px;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    .container-skills {
+        max-width: 1320px;
+    }
+}
+
+.react-multi-carousel-track {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    will-change: transform, transition;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.react-multiple-carousel__arrow--left {
+    left: 0%;
+}
+
+.react-multiple-carousel__arrow--right {
+    right: 0%;
+}

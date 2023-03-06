@@ -1,0 +1,104 @@
+.Home_container3 {
+    height: auto;
+    padding-top: 18%;
+    padding-bottom: 8%;
+}
+.services-card{
+    font-family: "Poppins", sans-serif;
+}
+
+.cardsheadline{
+    font-size: 20px;
+    margin: 0rem;
+}
+
+.services-card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.services-card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.services-card.interface div {
+    background: rgba(0, 174, 255, .2);
+}
+
+.services-card::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1rem;
+    bottom: 0;
+    left: 0;
+    border-radius: 0 0 .8rem .8rem;
+}
+
+.services-card.interface::after {
+    background: #00aeff;
+}
+
+.services-card.development div {
+    background: rgba(227, 31, 113, .2);
+}
+
+.services-card.development::after {
+    background: #e31f71;
+}
+
+.services-card::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1rem;
+    bottom: 0;
+    left: 0;
+    border-radius: 0 0 .8rem .8rem;
+}
+
+.services-card.marketing div {
+    background: rgba(136, 56, 180, .2);
+}
+
+.services-card::after {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1rem;
+    bottom: 0;
+    left: 0;
+    border-radius: 0 0 .8rem .8rem;
+}
+
+.services-card.marketing::after {
+    background: #8838b4;
+}
+
+.services-card div {
+    width: 8rem;
+    height: 8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2.7rem;
+    border-radius: 50%;
+}
+
+.services-card {
+    background: #1a1a1a;
+    box-shadow: 0 1.6rem 2.4rem rgba(0, 0, 0, .25);
+    border-radius: .8rem;
+    width: 32.5rem;
+    min-height: 30rem;
+    max-width: 100%;
+    padding: 1.6rem 4.3rem 2.2rem 3.5rem;
+    position: relative;
+    margin-bottom: 2.7rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    color: white;
+}
