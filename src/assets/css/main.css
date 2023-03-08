@@ -907,6 +907,7 @@ u {
     box-shadow: inset 0 -.5em 0 #00a6ed;
     text-decoration: none;
     transition: box-shadow .3s ease-out;
+    color: #fff;
 }
 
 u:hover {
