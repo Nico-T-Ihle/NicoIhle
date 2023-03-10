@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/nicoihle/static/css/main.9615d3f0.css",
-    "main.js": "/nicoihle/static/js/main.ebc96870.js",
+    "main.css": "/nicoihle/static/css/main.e34ba3bd.css",
+    "main.js": "/nicoihle/static/js/main.aa84c158.js",
     "static/js/787.4415079a.chunk.js": "/nicoihle/static/js/787.4415079a.chunk.js",
     "static/media/bluish-kingdom@3000x2000px.jpg": "/nicoihle/static/media/bluish-kingdom@3000x2000px.8141fe61c6b8bc15aaf8.jpg",
     "static/media/color-sharp.png": "/nicoihle/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/AppIcon.png": "/nicoihle/static/media/AppIcon.a415a20a28d638cef6cd.png",
     "static/media/emojiME.jpg": "/nicoihle/static/media/emojiME.9306a74b98b313b01ee4.jpg",
     "static/media/IMG_0207.png": "/nicoihle/static/media/IMG_0207.b53c8dcc17cfccdf4332.png",
     "static/media/revicons.eot": "/nicoihle/static/media/revicons.a77de540a38981833f9e.eot",
@@ -17,12 +18,12 @@
     "static/media/brackets.svg": "/nicoihle/static/media/brackets.0b6e6ea9802ec6da1fa92461ca8a585a.svg",
     "static/media/digital-marketing.svg": "/nicoihle/static/media/digital-marketing.1977e4425feed4913fc892ed690dad6d.svg",
     "index.html": "/nicoihle/index.html",
-    "main.9615d3f0.css.map": "/nicoihle/static/css/main.9615d3f0.css.map",
-    "main.ebc96870.js.map": "/nicoihle/static/js/main.ebc96870.js.map",
+    "main.e34ba3bd.css.map": "/nicoihle/static/css/main.e34ba3bd.css.map",
+    "main.aa84c158.js.map": "/nicoihle/static/js/main.aa84c158.js.map",
     "787.4415079a.chunk.js.map": "/nicoihle/static/js/787.4415079a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9615d3f0.css",
-    "static/js/main.ebc96870.js"
+    "static/css/main.e34ba3bd.css",
+    "static/js/main.aa84c158.js"
   ]
 }
