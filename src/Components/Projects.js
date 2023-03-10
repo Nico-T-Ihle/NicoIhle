@@ -6,6 +6,7 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 // import projectImg1 from '../assets/images/project-img1.png';
 // import 'animate.css';
 import enote from '../assets/images/IMG_0207.png';
+import JvJ from '../assets/images/AppIcon.png'
 import TrackVisibility from 'react-on-screen';
 import '../assets/css/Project.css'
 
@@ -47,18 +48,23 @@ export default function Projects() {
   return (
     <section className="project" id="project">
       <Container>
-        <div class="wrapper">
+        <div className="wrapper">
           <a className="box-1 box-hover" href="https://github.com/Nico-T-Ihle/Enote" >
             <div >
               <img className="enote" src={enote} />
             </div>
           </a>
 
-          <div class="box-2 box-hover">Coming Soon</div>
-          <div class="box-3 box-hover">Coming Soon</div>
-          <div class="box-4 box-hover">Coming Soon</div>
-          <div class="box-5 box-hover">Coming Soon</div>
-          <div class="box-6 box-hover">Coming Soon</div>
+          <a className="box-1 box-hover" href="https://github.com/Nico-T-Ihle/" >
+            <div className="enote-jvj" >
+              <img className="enote enote-jvj-img" src={JvJ} />
+            </div>
+          </a>
+
+          <div className="box-2 box-hover">Coming Soon</div>
+          <div className="box-3 box-hover">Coming Soon</div>
+          <div className="box-4 box-hover">Coming Soon</div>
+          <div className="box-5 box-hover">Coming Soon</div>
         </div>
         {/* <Row>
           <Col size={12}>

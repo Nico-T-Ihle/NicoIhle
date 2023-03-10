@@ -48,7 +48,6 @@
 
 
 .skill-slider {
-    width: 86%;
     margin: 0 auto;
     position: relative;
 }
@@ -138,4 +137,22 @@ h5 {
     background-color: #0b799a;
     border-radius: 15px;
     margin-right: 20px;
+}
+
+.react-multi-carousel-list {
+    justify-content: center;
+    border-radius: 1rem;
+}
+
+.react-multi-carousel-item {
+    background-color: #09b1de;
+    border-radius: 1rem;
+}
+
+.react-multi-carousel-track {
+    gap: 1rem;
+}
+
+li.react-multi-carousel-item{
+    width: 365px !important;
 }
