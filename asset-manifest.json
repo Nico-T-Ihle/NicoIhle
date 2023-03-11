@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nicoihle/static/css/main.466256b4.css",
+    "main.css": "/nicoihle/static/css/main.0a37011a.css",
     "main.js": "/nicoihle/static/js/main.ba23cd7a.js",
     "static/js/787.4415079a.chunk.js": "/nicoihle/static/js/787.4415079a.chunk.js",
     "static/media/color-sharp.png": "/nicoihle/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -19,12 +19,12 @@
     "static/media/brackets.svg": "/nicoihle/static/media/brackets.0b6e6ea9802ec6da1fa92461ca8a585a.svg",
     "static/media/digital-marketing.svg": "/nicoihle/static/media/digital-marketing.1977e4425feed4913fc892ed690dad6d.svg",
     "index.html": "/nicoihle/index.html",
-    "main.466256b4.css.map": "/nicoihle/static/css/main.466256b4.css.map",
+    "main.0a37011a.css.map": "/nicoihle/static/css/main.0a37011a.css.map",
     "main.ba23cd7a.js.map": "/nicoihle/static/js/main.ba23cd7a.js.map",
     "787.4415079a.chunk.js.map": "/nicoihle/static/js/787.4415079a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.466256b4.css",
+    "static/css/main.0a37011a.css",
     "static/js/main.ba23cd7a.js"
   ]
 }
