@@ -5,15 +5,16 @@ import Banner from './Components/Banner';
 import { Skills } from './Components/Skills';
 import Footer from './Components/Footer';
 import Projects from './Components/Projects';
+import Main from './Components/main';
 
 function App() {
   return (
     <>
-      <Header/>
-      <Banner/>
+      <Main/>
+      {/* <Banner/>
       <Skills/>
       <Projects/>
-      <Footer/>
+      <Footer/> */}
     </>
   );
 }

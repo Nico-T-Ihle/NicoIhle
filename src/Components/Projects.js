@@ -48,6 +48,8 @@ export default function Projects() {
   return (
     <section className="project" id="project">
       <Container>
+
+
         <div className="wrapper">
           <a className="box-1 box-hover" href="https://github.com/Nico-T-Ihle/Enote" >
             <div >
@@ -60,8 +62,7 @@ export default function Projects() {
               <img className="enote enote-jvj-img" src={JvJ} />
             </div>
           </a>
-
-          <div className="box-2 box-hover">Coming Soon</div>
+          <div className="box-3 box-hover">Coming Soon</div>
           <div className="box-3 box-hover">Coming Soon</div>
           <div className="box-4 box-hover">Coming Soon</div>
           <div className="box-5 box-hover">Coming Soon</div>
