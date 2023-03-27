@@ -126,7 +126,7 @@ export default function Home() {
                                 <h1 className='welcome-inhalt-h1 '>I'm Nico Ihle</h1>
                                 <h2 className='AbouteMe-third'>Software Developer and <u>Day Dreamer</u></h2>
                                 <div className="ConectBTN">
-                                    <a className='contactBTN' href="/https://github.com/Nico-T-Ihle" target="_blank">Github</a>
+                                    <a className='contactBTN' href="https://github.com/Nico-T-Ihle" target="_blank">Github</a>
                                     <a className='contactBTN' href="https://www.linkedin.com/in/nico-ihle?original_referer=http%3A%2F%2Flocalhost%3A3000%2F" target="_blank">Linkedin</a>
                                     <a className='contactBTN' href="https://www.instagram.com/nico.yuy/" target="_blank">Instagram</a>
                                 </div>
